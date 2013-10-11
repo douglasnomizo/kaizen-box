@@ -1,1 +1,6 @@
 .DS_Store
+kaizen/.sass-cache/
+kaizen/.tmp/
+.vagrant/
+kaizen/node_modules/
+kaizen/app/bower_components/

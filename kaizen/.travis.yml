@@ -12,4 +12,4 @@ deploy:
     secure: rRUae5KNrEH9Tia2I4RcIbCcE8laOESDdSrScIv7cQCd0jNBkg4P6VRy/lYFZAXSBqm9QLklYr/P+JH+l3+AB0Z77mX4LzUn9E2Hq//LpHyF7BHlwCPHSvQymacdWG0LA1uH9InRekuGrkCPiBFicwNqSdobmuG0motRkb/Wtm4=
   app: kaizen-dev
   on:
-    repo: douglasnomizo/kaizen
+    repo: douglasnomizo/kaizen-box
